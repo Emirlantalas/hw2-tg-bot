@@ -11,3 +11,5 @@ bot = Bot(TOKEN)
 dp = Dispatcher(bot=bot, storage=stroage)
 
 ADMIN = 1286486288
+
+URL ="https://pythonlol.herokuapp.com/"
